@@ -155,3 +155,5 @@ excellent [shields](https://github.com/badges/shields) project.
 ## License
 
 MIT
+
+All license adopted for OO use
